@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//Author: Łukasz Maruszak﻿
+#include <iostream>
 
 using namespace std;
 
